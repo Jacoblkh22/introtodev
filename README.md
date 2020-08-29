@@ -1,3 +1,1 @@
 # introtodev
-
-Jacob Low
